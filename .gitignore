@@ -11,8 +11,11 @@ wheels/
 
 data/featured*.csv
 data/filtered*.csv
+data/data_no_outliers.csv
 *.BACK.*
 *.zip
 *gemini.md
 Anticipez*
 test.ipynb
+
+.DS_Store
